@@ -1,0 +1,71 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google Play Store Analytics</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #333;
+            color: #fff;
+            margin: 0;
+            padding: 0;
+        }
+        .header {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            padding: 20px;
+        }
+        .plot-container {
+            border: 2px solid #555;
+            padding: 10px;
+            width: 400px;
+            overflow: hidden;
+            position: relative;
+            cursor: pointer;
+            margin: 10px;
+            background-color: #222;
+            text-align: center;
+        }
+        .plot-container:hover {
+            background-color: #444;
+        }
+    </style>
+    <script>
+        function openPlot(filename) {
+            window.open(filename, "_blank");
+        }
+    </script>
+</head>
+<body>
+    <div class="header">
+        <h1>Google Play Store Analytics</h1>
+    </div>
+    <div class="container">
+        <div class="plot-container" onclick="openPlot(' category and installs graph.html')"> category and installs graph</div>
+<div class="plot-container" onclick="openPlot(' scatter graph genres app count.html')"> scatter graph genres app count</div>
+<div class="plot-container" onclick="openPlot(' scatter of updates and ratings.html')"> scatter of updates and ratings</div>
+<div class="plot-container" onclick="openPlot(' sentiment score count graph.html')"> sentiment score count graph</div>
+<div class="plot-container" onclick="openPlot(' updates per year.html')"> updates per year</div>
+<div class="plot-container" onclick="openPlot('category graph.html')">category graph</div>
+<div class="plot-container" onclick="openPlot('free and paid count.html')">free and paid count</div>
+<div class="plot-container" onclick="openPlot('genres app count.html')">genres app count</div>
+<div class="plot-container" onclick="openPlot('Rating for Paid vs Free App .html')">Rating for Paid vs Free App </div>
+<div class="plot-container" onclick="openPlot('Ratings Distribution.html')">Ratings Distribution</div>
+<div class="plot-container" onclick="openPlot('revenue by categories.html')">revenue by categories</div>
+<div class="plot-container" onclick="openPlot('sample chart.html')">sample chart</div>
+<div class="plot-container" onclick="openPlot('user sentiment count graph.html')">user sentiment count graph</div>
+<div class="plot-container" onclick="openPlot('web_page.html')">web_page</div>
+
+    </div>
+</body>
+</html>

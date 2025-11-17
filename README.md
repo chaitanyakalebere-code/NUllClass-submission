@@ -1,3 +1,10 @@
+All internship task and there python files with output image are saved in folder Internship Task
+The folder data contains the data set CSV file in it 
+folder visualization contains Output of all the project Google play store data analytics 
+webpage.html is the website created using tikinter which shows all the visulization
+
+
+
 # NUllClass-submission
 this is the repostory created to submit the task of NullClass Internship
 # 📱 Google Play Store Analytics

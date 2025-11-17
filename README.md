@@ -1,10 +1,10 @@
-All "Internship Task" and there python files with output image are saved in folder Internship Task
+All "Internship Task" and there python files with output image are saved in folder Internship Task.
 Folder "notebooks" has Project python file.
-The folder "data" contains the data set CSV file in it 
-Folder "visualization" contains Output of all the project Google play store data analytics 
-"web_page.html" is the website created using tikinter which shows all the visulization
+The folder "data" contains the data set CSV file in it .
+Folder "visualization" contains Output of all the project Google play store data analytics .
+"web_page.html" is the website created using tikinter which shows all the visulization.
 
- Folder "project scrrenshot" ccontains all terminal scrrenshot 
+ Folder "project scrrenshot" ccontains all terminal scrrenshot .
 
 # NUllClass-submission
 this is the repostory created to submit the task of NullClass Internship

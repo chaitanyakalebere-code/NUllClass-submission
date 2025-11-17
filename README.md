@@ -3,6 +3,7 @@ The folder data contains the data set CSV file in it
 folder visualization contains Output of all the project Google play store data analytics 
 webpage.html is the website created using tikinter which shows all the visulization
 
+project scrrenshot folder ccontains all terminal scrrenshot 
 
 
 # NUllClass-submission
